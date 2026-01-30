@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 TrainerPro
 
-## Getting Started
+**TrainerPro** es la herramienta definitiva para entrenadores personales. Una Web-App minimalista, rápida y privada para gestionar atletas y sus rutinas diarias sin vueltas.
 
-First, run the development server:
+### ✨ ¿Qué hace a TrainerPro diferente?
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+* **Interfaz de Élite:** Diseño *Mobile-First* optimizado para el uso intenso en el gimnasio.
+* **Navegación Fluida:** Animaciones táctiles y transiciones de 200ms para una sensación de App nativa.
+* **Editor Dinámico:** Gestiona rutinas de Lunes a Sábado con un selector intuitivo estilo iOS.
+* **Privacidad Total:** Acceso protegido por contraseña maestra. Solo tú puedes entrar.
+* **Borrado Inteligente:** Al eliminar un atleta, se limpia automáticamente toda su información de la base de datos.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 🛠️ Tecnología
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Esta App utiliza lo último en desarrollo web para asegurar velocidad máxima:
 
-## Learn More
+* **Next.js 16:** El motor más potente para aplicaciones web modernas.
+* **Supabase:** Base de datos en la nube de alto rendimiento.
+* **Tailwind CSS:** Estilos ultra rápidos y diseño adaptable.
+* **Lucide Icons:** Iconografía limpia y profesional.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Desarrollado para optimizar cada segundo de tu entrenamiento. 🔥**
