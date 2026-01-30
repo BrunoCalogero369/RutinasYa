@@ -2,6 +2,8 @@
 
 **TrainerPro** es la herramienta definitiva para entrenadores personales. Una Web-App minimalista, rápida y privada para gestionar atletas y sus rutinas diarias sin vueltas.
 
+[![Ver App](https://img.shields.io/badge/LIVE_DEMO-TrainerPro-blue?style=for-the-badge&logo=netlify)](https://rutinas-ya.netlify.app)
+
 ### ✨ ¿Qué hace a TrainerPro diferente?
 
 * **Interfaz de Élite:** Diseño *Mobile-First* optimizado para el uso intenso en el gimnasio.
